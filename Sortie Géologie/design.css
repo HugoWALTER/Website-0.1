@@ -1,0 +1,1040 @@
+.ombre {
+  color: purple;
+}
+.ombre
+{
+	text-shadow : 8px 5px 4px rgba(178, 173, 190, 0.97);
+}
+.h1
+{
+	text-align : center;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 12%;
+	width: 100%;
+}
+.titre
+{
+	text-align : center;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+	width: 100%;
+	font-style: italic; 
+}
+#menu
+{
+	text-align : center;
+	margin-left: -2%;
+    margin-right: auto;
+    margin-top: 29%;
+	width: 100%;
+	font-size: 20px;
+}
+#menu li
+{
+	display : inline;
+	height : 200px;
+	background-color: #009405;
+	padding : 5px;
+	margin : 10px;
+	border-radius : 5px;
+	
+}
+#menu li a{
+text-decoration : none;
+}
+#Bienvenue1
+{
+	background-image: url("srcs/imgs/wallpaper.jpg");
+	background-size : 100%;
+	color: white;
+	font-size: 50px;
+	width: 99%;
+}
+#copyrighttext
+{
+	color : red;
+	text-align: center;
+	margin-top: 2px;
+	font-size: 30px;
+}
+#copyrighttext2
+{
+	color : red;
+	text-align: center;
+	margin-top: 410px;               
+	font-size: 30px;   
+}
+#copyrighttext3
+{
+	color : red;
+	text-align: center;
+	margin-top: 50px;               
+	font-size: 30px;   
+}
+#copyrighttext4
+{
+	color : red;
+	text-align: center;
+	margin-top: 80px;               
+	font-size: 30px; 
+	margin-left: 1100px;
+}
+#copyrighttext5
+{
+	color : red;
+	text-align: center;
+	margin-top: -10px;               
+	font-size: 30px; 
+	margin-left: 1100px;
+}
+#copyrighttext6
+{
+	color : red;
+	text-align: center;
+	margin-top: 110px;               
+	font-size: 30px; 
+	margin-left: 1150px;
+}
+#copyrighttext7
+{
+	color : red;
+	text-align: center;
+	margin-top: 380px;               
+	font-size: 30px; 
+	margin-left: 1150px;
+}
+#arret1
+{
+	position: float;
+	margin-top: 180px;
+	margin-left: 115px;
+}
+#arret1 li
+{
+	display : inline;
+	height : 200px;
+	background-color: #009405;
+	padding : 5px;
+	margin : 10px;
+	border-radius : 5px;
+	font-size: 30px;
+}
+#arret1 li a
+{
+	text-decoration : none;
+}
+#arret2
+{
+	position: float;
+	margin-top: -50px;
+	margin-left: 820px;                        
+}
+#arret2 li
+{
+	display : inline;
+	height : 200px;
+	background-color: #009405;
+	padding : 5px;
+	margin : 10px;
+	border-radius : 5px;
+	font-size: 30px;
+}
+#arret2 li a
+{
+	text-decoration : none;
+}
+#arret3
+{
+	position: float;
+	margin-top: -50px;
+	margin-left: 1450px;                        
+}
+#arret3 li
+{
+	display : inline;
+	height : 200px;
+	background-color: #009405;
+	padding : 5px;
+	margin : 10px;                             
+	border-radius : 5px;
+	font-size: 30px;
+}
+#arret3 li a
+{
+	text-decoration : none;
+}
+#retour
+{
+	position: float;
+	margin-top: 780px;
+	margin-left: 690px;
+}
+#retour li
+{
+	display : inline;
+	height : 100px;
+	background-color: #009405;
+	padding : 5px;
+	margin : 10px;
+	border-radius : 5px;
+	font-size: 30px;
+}
+#retour li a
+{
+	text-decoration : none;
+}
+#retour2
+{
+	position: float;
+	margin-top: 880px;
+	margin-left: 800px;
+}
+#retour2 li
+{
+	display : inline;
+	height : 100px;
+	background-color: #009405;
+	padding : 5px;
+	margin : 10px;
+	border-radius : 5px;
+	font-size: 30px;
+}
+#retour2 li a
+{
+	text-decoration : none;
+}
+#retour3
+{
+	position: float;
+	margin-top: 880px;
+	margin-left: 890px;
+}
+#retour3 li
+{
+	display : inline;
+	height : 100px;
+	background-color: #009405;
+	padding : 5px;
+	margin : 10px;
+	border-radius : 5px;
+	font-size: 30px;
+}
+#retour3 li a
+{
+	text-decoration : none;
+}
+#retour4
+{
+	position: absolute;
+	margin-top: -50px;
+	margin-left: 340px;
+}
+#retour4 li
+{
+	display : inline;
+	height : 100px;
+	background-color: #009405;
+	padding : 5px;
+	margin : 10px;
+	border-radius : 5px;
+	font-size: 30px;
+}
+#retour4 li a
+{
+	text-decoration : none;
+}
+#retour5
+{
+	position: absolute;
+	margin-top: 850px;
+	margin-left: 340px;
+}
+#retour5 li
+{
+	display : inline;
+	height : 100px;
+	background-color: #009405;
+	padding : 5px;
+	margin : 10px;
+	border-radius : 5px;
+	font-size: 30px;
+}
+#retour5 li a
+{
+	text-decoration : none;
+}
+#retour6
+{
+	position: absolute;
+	margin-top: 850px;
+	margin-left: 640px;
+}
+#retour6 li
+{
+	display : inline;
+	height : 100px;
+	background-color: #009405;
+	padding : 5px;
+	margin : 10px;
+	border-radius : 5px;
+	font-size: 30px;
+}
+#retour6 li a
+{
+	text-decoration : none;
+}
+#retour7
+{
+	position: absolute;
+	margin-top: 850px;
+	margin-left: 940px;
+}
+#retour7 li
+{
+	display : inline;
+	height : 100px;
+	background-color: #009405;
+	padding : 5px;
+	margin : 10px;
+	border-radius : 5px;
+	font-size: 30px;
+}
+#retour7 li a
+{
+	text-decoration : none;
+}
+#retour8
+{
+	position: absolute;
+	margin-top: 850px;
+	margin-left: 540px;
+}
+#retour8 li
+{
+	display : inline;
+	height : 100px;
+	background-color: #009405;
+	padding : 5px;
+	margin : 10px;
+	border-radius : 5px;
+	font-size: 30px;
+}
+#retour8 li a
+{
+	text-decoration : none;
+}
+#retour9
+{
+	position: absolute;
+	margin-top: 850px;
+	margin-left: 840px;
+}
+#retour9 li
+{
+	display : inline;
+	height : 100px;
+	background-color: #009405;
+	padding : 5px;
+	margin : 10px;
+	border-radius : 5px;
+	font-size: 30px;
+}
+#retour9 li a
+{
+	text-decoration : none;
+}
+#img1 
+{
+	position: absolute;                     
+    top: 300px;
+	left: 10px;                               
+	height: 200px;                                        
+}
+#img2 
+{
+	position: absolute;
+    top: 300px;
+	left: 700px;                   
+	height: 200px;                
+	width: 24%;              
+}
+#img3
+{
+	position: absolute;     
+    top: 300px;
+	right: 200px;                 
+	height: 200px;  
+}
+#img4
+{
+	position: absolute;     
+    top: 80px;
+	left: 20px;                 
+	height: 160px;  
+}
+#img5
+{
+	position: absolute;     
+    top: 330px;
+	left: 20px;                 
+	height: 160px;
+	width: 30%;
+}
+#img6
+{
+	position: absolute;     
+    top: 580px;
+	left: 20px;                 
+	height: 320px;
+	width: 30%;
+}
+#img7
+{
+	position: absolute;     
+    top: 390px;
+	left: 1010px;                 
+	height: 190px;
+	width: 40%;
+}
+#img8
+{
+	position: absolute;     
+    top: 80px;
+	left: 20px;                 
+	height: 190px;
+	width: 25%;
+	height: 300px;
+}
+#img9
+{
+	position: absolute;     
+    top: 720px;
+	left: 20px;                 
+	width: 25%;
+	height: 200px;
+}
+#img10
+{
+	position: absolute;     
+    top: 80px;
+	right: 20px;                 
+	height: 190px;
+	width: 25%;
+	height: 300px;
+}
+#img11
+{
+	position: absolute;     
+    top: 540px;
+	right: 20px;                 
+	height: 190px;
+	width: 25%;
+	height: 300px;
+}
+#img12
+{
+	position: absolute;     
+    top: 170px;
+	left: 670px;                 
+	width: 25%;
+	height: 320px;
+	width: 28%
+}
+#img13
+{
+	position: absolute;     
+    top: 430px;
+	left: 20px;                 
+	width: 25%;
+	height: 230px;
+}
+#img14
+{
+	position: absolute;     
+    top: 430px;
+	left: 20px;                 
+	width: 15%;
+	height: 150px;
+}
+#img15
+{
+	position: absolute;     
+    top: 590px;
+	left: 280px;                 
+	width: 15%;
+	height: 150px;
+}
+#img16
+{
+	position: absolute;     
+    top: 750px;
+	left: 20px;                 
+	width: 15%;
+	height: 150px;
+}
+#img17
+{
+	position: absolute;     
+    top: 430px;
+	left: 650px;                 
+	width: 15%;
+	height: 150px;
+}
+#img18
+{
+	position: absolute;     
+    top: 590px;
+	left: 940px;                 
+	width: 15%;
+	height: 150px;
+}
+#img19
+{
+	position: absolute;     
+    top: 750px;
+	left: 650px;                 
+	width: 15%;
+	height: 150px;
+}
+#img20
+{
+	position: absolute;     
+    top: 430px;
+	left: 1300px;                 
+	width: 10%;
+	height: 150px;
+}
+#img21
+{
+	position: absolute;     
+    top: 560px;
+	left: 1650px;                 
+	width: 10%;
+	height: 150px;
+}
+#img22
+{
+	position: absolute;     
+    top: 750px;
+	left: 1300px;                 
+	width: 10%;
+	height: 150px;
+}
+#img23
+{
+	position: absolute;     
+    top: 110px;
+	left: 20px;                 
+	width: 30%;
+	height: 330px;
+}
+#img24
+{
+	position: absolute;     
+    top: 520px;
+	left: 20px;                 
+	width: 40%;
+	height: 390px;
+}
+#txt1
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 240px;
+	margin-left: -1435px;             
+	text-align: center;
+}
+#txt2
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -43px;
+	margin-left: -50px;               
+	text-align: center;
+}
+#txt3
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -43px;
+	margin-left: 1200px;           
+	text-align: center;
+}
+#txt4
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -630px;
+	margin-right: 1300px;           
+	text-align: center;
+}
+#txt5
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 230px;
+	margin-right: 1300px;           
+	text-align: center;
+}
+#txt6
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 380px;
+	margin-right: 1300px;           
+	text-align: center;
+}
+#txt7
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -810px;
+	margin-left: 1030px;        
+	text-align: justify;
+	color: black;
+}
+#txt8
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 320px;
+	margin-left: 1030px;        
+	text-align: justify;
+	color: black;
+}
+#txt9
+{
+	font-size: 20px;
+	color: black;
+	position: absolute;
+	margin-top: -360px;
+	margin-left: 1550px;           
+	text-align: center;
+}
+#txt10
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -310px;
+	margin-left: 570px;        
+	text-align: justify;
+	color: black;
+}
+#txt11
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -960px;
+	margin-left: -1420px;           
+	text-align: center;
+}
+#txt12
+{
+	font-size: 20px;
+	color: black;
+	position: absolute;
+	margin-top: 320px;
+	margin-left: 100px;           
+	text-align: center;
+}
+#txt13
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 620px;
+	margin-left: -1400px;           
+	text-align: center;
+}
+#txt14
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 240px;
+	margin-left: -1400px;           
+	text-align: center;
+}
+#txt15
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -840px;
+	margin-left: -90px;           
+	text-align: center;
+}
+#txt16
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -150px;
+	margin-left: 1420px;           
+	text-align: center;
+}
+#txt17
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 340px;
+	margin-left: 1420px;           
+	text-align: center;
+}
+#txt18
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 440px;
+	margin-left: 1420px;           
+	text-align: center;
+}
+#txt19
+{
+	font-size: 20px;
+	color: black;
+	position: absolute;
+	margin-top: -268px;
+	margin-left: 150px;           
+	text-align: center;
+}
+#txt20
+{
+	font-size: 20px;
+	color: black;
+	position: absolute;
+	margin-top: -268px;
+	margin-left: 800px;           
+	text-align: center;
+}
+#txt21
+{
+	font-size: 20px;
+	color: black;
+	position: absolute;
+	margin-top: -268px;
+	margin-left: 1500px;           
+	text-align: center;
+}
+#txt22
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -230px;
+	margin-left: 30px;           
+	text-align: justify;
+}
+#txt23
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -198px;
+	margin-left: 670px;           
+	text-align: justify;
+}
+#txt24
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -255px;
+	margin-left: 1310px;           
+	text-align: justify;
+}
+#txt25
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 300px;
+	margin-left: -1600px;         
+	text-align: center;
+}
+#txt26
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 140px;
+	margin-left: -1050px;         
+	text-align: center;
+}
+#txt27
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 130px;
+	margin-left: -1600px;         
+	text-align: center;
+}
+#txt28
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -360px;
+	margin-left: -350px;         
+	text-align: center;
+}
+#txt29
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 140px;
+	margin-left: 250px;         
+	text-align: center;
+}
+#txt30
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 130px;
+	margin-left: -300px;         
+	text-align: center;
+}
+#txt31
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -360px;
+	margin-left: 890px;         
+	text-align: center;
+}
+#txt32
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 110px;
+	margin-left: 1600px;         
+	text-align: center;
+}
+#txt33
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 160px;
+	margin-left: 900px;         
+	text-align: center;
+}
+#txt34
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -820px;
+	margin-left: -1300px;         
+	text-align: center;
+}
+#txt35
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 380px;
+	margin-left: -1300px;         
+	text-align: center;
+}
+#txt36
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -410px;
+	margin-left: 950px;         
+	text-align: center;
+}
+#txt37
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 340px;
+	margin-left: 950px;         
+	text-align: center;
+}
+#txt38
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: -370px;
+	margin-left: 1160px;         
+	text-align: justify;
+}
+#txt39
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 110px;
+	margin-left: 1120px;         
+	text-align: justify;
+}
+#txt40
+{
+	font-size: 20px;
+	color: black;
+	position: float;
+	margin-top: 420px;
+	margin-left: 100px;         
+	text-align: center;
+	color: white;
+}
+#rectangle
+{
+	font-size: 20px;
+	color: black;
+	text-align: justify;
+	border-style: groove;
+	border: 5px groove red;
+	width: 25%;
+	position: float;
+	margin-left: 1000px;
+	margin-top: -880px;
+	padding: 149px;
+	background-image: url("srcs/imgs/backtexte.jpg");
+	height: -80px;
+}
+#rectangle2
+{
+	font-size: 20px;
+	color: black;
+	text-align: justify;
+	border-style: groove;                   
+	border: 5px groove red;
+	width: 25%;
+	position: float;
+	margin-left: 1000px;
+	margin-top: 230px;
+	padding: 149px;
+	background-image: url("srcs/imgs/backtexte.jpg");
+	height: -80px;
+}
+#rectangle3
+{
+	font-size: 20px;
+	color: black;
+	text-align: justify;
+	border-style: groove;                   
+	border: 5px groove red;
+	width: 28%;
+	position: float;
+	margin-left: 530px;
+	margin-top: -350px;
+	padding: 158px;
+	background-image: url("srcs/imgs/backtexte.jpg");
+	height: -80px;
+}
+#rectangle4
+{
+	font-size: 20px;
+	color: black;
+	text-align: justify;
+	border-style: groove;                   
+	border: 5px groove red;
+	width: 15%;
+	position: float;
+	margin-left: 10px;
+	margin-top: -890px;
+	padding: 130px;
+	background-image: url("srcs/imgs/backtexte.jpg");
+	height: -90px;
+}
+#rectangle5
+{
+	font-size: 20px;
+	color: black;
+	text-align: justify;
+	border-style: groove;                   
+	border: 5px groove red;
+	width: 15%;
+	position: float;
+	margin-left: 650px;
+	margin-top: -270px;
+	padding: 140px;
+	background-image: url("srcs/imgs/backtexte.jpg");
+	height: -90px;
+}
+#rectangle6
+{
+	font-size: 20px;
+	color: black;
+	text-align: justify;
+	border-style: groove;                   
+	border: 5px groove red;
+	width: 15%;
+	position: float;
+	margin-left: 1290px;
+	margin-top: -290px;
+	padding: 130px;
+	background-image: url("srcs/imgs/backtexte.jpg");
+	height: -90px;
+}
+#rectangle7
+{
+	font-size: 20px;
+	color: black;
+	text-align: justify;
+	border-style: groove;                   
+	border: 5px groove red;
+	width: 17%;
+	position: float;
+	margin-left: 1130px;
+	margin-top: 70px;
+	padding: 150px;
+	background-image: url("srcs/imgs/backtexte.jpg");
+	height: 30px;
+}
+#rectangle8
+{
+	font-size: 20px;
+	color: black;
+	text-align: justify;
+	border-style: groove;                   
+	border: 5px groove red;
+	width: 16%;
+	position: float;
+	margin-left: 1100px;
+	margin-top: 10px;
+	padding: 200px;
+	background-image: url("srcs/imgs/backtexte.jpg");
+	height: 30px;
+}
+#fin 
+{
+	background-image: url("srcs/imgs/fin.jpg");
+}
+.titrefin
+{
+	text-align : center;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+	width: 100%;
+	font-style: italic; 
+	color: white;
+	font-size: 35px;
+	text-align: center;
+}
